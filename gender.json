@@ -1,0 +1,20 @@
+{"frames": {
+    "gender.png":
+    {
+        "frame": {"x":2,"y":2,"w":46,"h":46},
+        "rotated": false,
+        "trimmed": true,
+        "spriteSourceSize": {"x":1,"y":1,"w":46,"h":46},
+        "sourceSize": {"w":48,"h":48},
+        "pivot": {"x":0.5,"y":0.5}
+    }},
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "gender.png",
+        "format": "RGBA8888",
+        "size": {"w":50,"h":50},
+        "scale": "1",
+        "smartupdate": "$TexturePacker:SmartUpdate:e4420d7e3969f707186b51a4bb3b9e20:25e284b574481c8fc72224bbf3983b4c:458142eb5967656d3ba408577439c282$"
+    }
+}
